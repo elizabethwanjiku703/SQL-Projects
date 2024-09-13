@@ -1,1 +1,2 @@
-# SQL-Projects
+# Attrition Analysis at MX
+This case was written by Rupali Chaudhuri, under the direction of Debapratim Purkayastha, IBS Hyderabad. It was prepared from generalized experience, and is intended to be used as a basis for class discussion rather than to illustrate either effective or ineffective handling of a management situation. The project can be found [here]"https://github.com/elizabethwanjiku703/SQL-Projects/blob/main/Case_Attrition_Mesotime/Case_Attrition_Mesotime.ipynb"
